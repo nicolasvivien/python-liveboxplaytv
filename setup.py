@@ -14,7 +14,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         "fuzzywuzzy",
-        "python-Levenshtein",
         "pyteleloisirs>=3.6",
         "requests",
         "wikipedia",

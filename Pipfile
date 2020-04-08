@@ -16,7 +16,6 @@ requests = "*"
 six = "*"
 urllib3 = "*"
 wikipedia = "*"
-python-Levenshtein = "*"
 pyteleloisirs = "*"
 
 [dev-packages]
